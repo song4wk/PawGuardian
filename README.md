@@ -5,7 +5,7 @@
 **車内に残されたペットの熱中症や分離不安を自律的に防ぐ、Agentic AI 監視システム**  
 **An autonomous monitoring system powered by Agentic AI to prevent heatstroke and anxiety for pets left in vehicles.**
 
-<img width="1400" height="966" alt="image" src="https://github.com/user-attachments/assets/65355b1b-55f8-4185-b91a-309f4b28d897" />
+![](https://storage.googleapis.com/zenn-user-upload/9eded380a82e-20260215.png)
 
 ---
 
