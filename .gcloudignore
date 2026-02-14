@@ -1,0 +1,25 @@
+# --- Pythonの不要ファイルを無視する ---
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+env/
+bin/
+lib/
+share/
+
+# --- バージョン管理システムやIDE設定ファイルを無視する ---
+.git/
+.gitignore
+.vscode/
+.idea/
+
+# --- 大きなローカル素材を無視する ---
+*.mp4
+*.zip
+*.tar.gz
+
+# --- Streamlitの実行で生成される一時ファイルを無視する ---
+.streamlit/config.toml

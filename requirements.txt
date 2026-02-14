@@ -1,0 +1,6 @@
+streamlit
+google-cloud-aiplatform
+google-cloud-storage
+python-dotenv
+twilio
+google-cloud-secret-manager
